@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/aly/RiderProjects/POO/POO_Aula2/POO_Aula2.csproj": {}
+    "/home/aly/Documents/GitHub/IPCA_POO/POO_Aula2/POO_Aula2.csproj": {}
   },
   "projects": {
-    "/home/aly/RiderProjects/POO/POO_Aula2/POO_Aula2.csproj": {
+    "/home/aly/Documents/GitHub/IPCA_POO/POO_Aula2/POO_Aula2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/aly/RiderProjects/POO/POO_Aula2/POO_Aula2.csproj",
+        "projectUniqueName": "/home/aly/Documents/GitHub/IPCA_POO/POO_Aula2/POO_Aula2.csproj",
         "projectName": "POO_Aula2",
-        "projectPath": "/home/aly/RiderProjects/POO/POO_Aula2/POO_Aula2.csproj",
+        "projectPath": "/home/aly/Documents/GitHub/IPCA_POO/POO_Aula2/POO_Aula2.csproj",
         "packagesPath": "/home/aly/.nuget/packages/",
-        "outputPath": "/home/aly/RiderProjects/POO/POO_Aula2/obj/",
+        "outputPath": "/home/aly/Documents/GitHub/IPCA_POO/POO_Aula2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/aly/.nuget/NuGet/NuGet.Config"
