@@ -1,0 +1,14 @@
+/home/aly/RiderProjects/POO/POO_Aula2/bin/Debug/net8.0/POO_Aula2
+/home/aly/RiderProjects/POO/POO_Aula2/bin/Debug/net8.0/POO_Aula2.deps.json
+/home/aly/RiderProjects/POO/POO_Aula2/bin/Debug/net8.0/POO_Aula2.runtimeconfig.json
+/home/aly/RiderProjects/POO/POO_Aula2/bin/Debug/net8.0/POO_Aula2.dll
+/home/aly/RiderProjects/POO/POO_Aula2/bin/Debug/net8.0/POO_Aula2.pdb
+/home/aly/RiderProjects/POO/POO_Aula2/obj/Debug/net8.0/POO_Aula2.GeneratedMSBuildEditorConfig.editorconfig
+/home/aly/RiderProjects/POO/POO_Aula2/obj/Debug/net8.0/POO_Aula2.AssemblyInfoInputs.cache
+/home/aly/RiderProjects/POO/POO_Aula2/obj/Debug/net8.0/POO_Aula2.AssemblyInfo.cs
+/home/aly/RiderProjects/POO/POO_Aula2/obj/Debug/net8.0/POO_Aula2.csproj.CoreCompileInputs.cache
+/home/aly/RiderProjects/POO/POO_Aula2/obj/Debug/net8.0/POO_Aula2.dll
+/home/aly/RiderProjects/POO/POO_Aula2/obj/Debug/net8.0/refint/POO_Aula2.dll
+/home/aly/RiderProjects/POO/POO_Aula2/obj/Debug/net8.0/POO_Aula2.pdb
+/home/aly/RiderProjects/POO/POO_Aula2/obj/Debug/net8.0/POO_Aula2.genruntimeconfig.cache
+/home/aly/RiderProjects/POO/POO_Aula2/obj/Debug/net8.0/ref/POO_Aula2.dll

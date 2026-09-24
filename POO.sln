@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO_Aula1", "POO_Aula1\POO_Aula1.csproj", "{43A2E057-8B30-45F1-9961-1A4182FFF9DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO_Aula2", "POO_Aula2\POO_Aula2.csproj", "{31F5B859-966D-42A3-9744-9CB4F301A765}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43A2E057-8B30-45F1-9961-1A4182FFF9DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A2E057-8B30-45F1-9961-1A4182FFF9DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A2E057-8B30-45F1-9961-1A4182FFF9DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A2E057-8B30-45F1-9961-1A4182FFF9DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31F5B859-966D-42A3-9744-9CB4F301A765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31F5B859-966D-42A3-9744-9CB4F301A765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31F5B859-966D-42A3-9744-9CB4F301A765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31F5B859-966D-42A3-9744-9CB4F301A765}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
