@@ -9,7 +9,7 @@ namespace POO_Aula3
         {
             Car aaa = new Car("Toyota", "Camry", 5);
 
-
+            aaa.StartEngine();
 
         }
     }
